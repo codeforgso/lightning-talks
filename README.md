@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/codeforgso/lightning-talks.png?label=ready&title=Ready)](https://waffle.io/codeforgso/lightning-talks)
 # lightning-talks
 Brainstorm your ideas for lightning talks at meetings.
 
